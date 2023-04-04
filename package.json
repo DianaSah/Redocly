@@ -1,0 +1,24 @@
+{
+  "name": "redocly",
+  "version": "1.0.0",
+  "description": "Redocly Trial task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "test",
+    "create:PR": "gh pr create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaSah/Redocly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaSah/Redocly/issues"
+  },
+  "homepage": "https://github.com/DianaSah/Redocly#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
